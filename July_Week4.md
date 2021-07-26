@@ -2,9 +2,11 @@
 
 ## 0725
 
+- 게으름++;
+
 ## 0726
 
-21시20분 ~ : git add, commit, push 연습
+21:20 ~ : git add, commit, push 연습
 
 ### 특이사항 1. : 
 이전 파일 명을 바꾸니까 add 는 되는데 commit가 안되는 경우 발생!?  
