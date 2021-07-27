@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ProDuct Card</title>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <div class="product-card">
+        <img src="product-card-image" alt="">
+        <!--많은 시도를 해보았으나 이미지 넣는 방법을 모르겟슴
+            ㄴ 밑에 링크가 있었단다 친구야. css default 값으로 이미지를 불러오는 것을 생각한 모양인데
+            그건 아닌거같구나 친구야.
+        -->
+
+        <p class="product-card-author">
+            이병률
+        </p>
+        <p class="product-card-title">
+            혼자가 혼자에게
+            <!--"혼자가 혼자에게" 라는 string을 bold처리 하고싶은데 
+                <strong> markup하면 "오늘의 책" string 처럼 말각방형이 생김-->
+            <strong>오늘의 책</strong>
+        </p>
+        <!-- 별 어떻게 만드는지 모름
+        ㄴfoneawesome에 가서 html 태그로 긁어오는 방법 사용
+        & 스타일적인 부분이므로 스크린 리더가 읽지 않도록 aria-hidden="true"선언
+        -->
+        <p>
+
+        </p>
+        <p class="product-card-review">
+            9.4
+        </p>
+    </div>
+</body>
+
+</html>
+<!--
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<title>ProDuct Card</title>
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+	<link rel="stylesheet" href="./styles.css">
+	<script src="https://kit.fontawesome.com/af19d919f5.js" crossorigin="anonymous"></script>
+</head>
+<body>
+	<div class="product-card">
+	<div  class="product-card-image">
+		<img src="https://user-images.githubusercontent.com/19285811/69318246-becd7980-0c77-11ea-8324-6c43e2de8cf2.png" alt=""/>	
+	</div>
+	
+	<div  class="product-card-title">
+		<h1>
+			혼자가 혼자에게
+		</h1>
+		<strong aria-label="오늘의 책 선정">
+			오늘의 책
+		</strong>
+	</div>
+	
+	<div  class="product-card-author">
+		<strong aria-label="저자 이병률">
+		이병률
+		</strong>	
+	</div>
+	
+	<strong aria-label="평점 9.4" class="product-card-review"> 
+		<span aria-hidden="true">
+			<i class="fas fa-star"></i>
+			<i class="fas fa-star"></i>
+			<i class="fas fa-star"></i>
+			<i class="fas fa-star"></i>
+			<i class="fas fa-star-half"></i>
+		</span>
+		9.4
+	</strong>	
+	</div>
+
+</body>
+</html>
+
+-->
