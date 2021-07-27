@@ -46,4 +46,4 @@
 >	> < title>Google Search Result Item</title>  
 >	> < link rel="stylesheet" href="./styles.css">  
 >   > < /head>  
-> 2. <img>태그
+> 2. < img>태그
