@@ -39,11 +39,11 @@
 
 13:15 ~ : 출근
 > 1. < !DOCTYPE html> 작성법 숙지하기
->   > < head>
->	> < meta charset="UTF-8">
->	> < title>FratureBox</title>
->	> < meta name="viewport" content="width=device-width, initial-scale=1.0,">
->	> < title>Google Search Result Item</title>
->	> < link rel="stylesheet" href="./styles.css">
->   > < /head>
+>   > < head>  
+>	> < meta charset="UTF-8">  
+>	> < title>FratureBox</title>  
+>	> < meta name="viewport" content="width=device-width, initial-scale=1.0,">  
+>	> < title>Google Search Result Item</title>  
+>	> < link rel="stylesheet" href="./styles.css">  
+>   > < /head>  
 > 2. <img>태그
