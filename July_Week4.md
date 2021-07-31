@@ -42,9 +42,9 @@
 > 1. < !DOCTYPE html> 작성법 숙지하기
 >   > < head>  
 >	> < meta charset="UTF-8">  
->	> < title>FratureBox</title>  
+>	> < title>FratureBox</ title>  
 >	> < meta name="viewport" content="width=device-width, initial-scale=1.0,">  
->	> < title>Google Search Result Item</title>  
+>	> < title>Google Search Result Item</ title>  
 >	> < link rel="stylesheet" href="./styles.css">  
 >   > < /head>  
 > 2. < img>태그
@@ -93,3 +93,17 @@
 > 더이상 미개하게 local에 한번, ide에서 두번 저장할 필요가 없어졌습니다. 역시 사람은 배워야합니다. 기술짱짱맨.  
 
 21:00 ~ 22:50: 12Gmail~14video를 끝냄
+> 그냥 git에 올려둔거 나중에 한번 읽어서 정독하는게 좋겠다..
+> 다음 강의가 twitter markup인데, 그거 들어가기 전에 본 문서에서 본인이 실수한 부분과, 3장HTML훈련에서 실습하면서 주석으로 남겨둔 것과 코드 활용법을 숙지한 후 넘어가는게 좋을 것 같음.
+> 아 그리고 July_Week4.md를 제외하고 나머지는 지우거나 정리를 좀 하고싶은데 어케 안되나
+
+## 0729
+
+## 0730
+
+## 0731
+
+19:40 ~ 21:30 : 김버그 IV강, Html Tweeter Markup 끝.
+> 위에 아무것도 없는 이유는 단순하다. 게을러 처먹었기 때문이다.
+> 저녁밥을 먹고와서 이 창을 띄워놓고 지금 30분째 면벽수행중이다.  
+- Q. html연습할때 멘토께서 하셨던 방법?
