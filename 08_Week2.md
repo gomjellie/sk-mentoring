@@ -30,3 +30,9 @@
 >   >   > error: cannot pull with rebase: You have unstaged changes.  
 >   >   > error: please commit or stash them.
 >   > 아 ㅋㅋ 어림도 없지 ㅋㅋ
+>   > 3. git pull...
+>   >   > 뭔지 모르겠다.. 살려줘 시발..
+
+# 0813
+
+20:20 ~ :
