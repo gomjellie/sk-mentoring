@@ -41,5 +41,14 @@
 
 ## 0814
 
-12:30 ~ 1510 : 김버그 XIV~XVI 이론 수강
+12:30 ~ 15:10 : 김버그 XIV~XVI 이론 수강
 - 실습 코드 적을때 각주 충실히 적자. 다시 볼때 왜 이런 코드를 작성했는지 머릿속에 잘 안들어옴.
+
+19:00 : 멘토링 시작
+- div와 span의 차이점 : 쌓이는 방향의 차이.  
+- 실제 동작하는 js나 react를 사용하면서 실제 동작하는 app를 만들어보면서 html, css를 복기하는 방법으로 나아가도록 하자. 
+> react는 인프런 ; 조현영, 김민준(Velopert)이 유명. 
+>    > https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert
+> js는 https://www.inflearn.com/course/javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%95%EC%A2%8C
+- git -> 
+- 검색 방법은 google 말고 youtube를 통해서 검색하는 방법도 권장
